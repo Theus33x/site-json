@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(87, 87, 87);
+}
+ 
+.titulo{
+    color: rgb(179, 179, 179);
+}
+
+
+.artista {
+    color: rgb(26, 5, 148);
+}
+
+
+.artista2 {
+    color: rgb(26, 5, 148);
+}
+
+.butao {
+    border-radius: 15px;
+    cursor: pointer;
+    border-radius: 2px;
+
+}
+.butao2 {
+    border-radius: 15px;
+    cursor: pointer;
+    border-radius: 2px;
+
+}
+    
+.butao:hover {
+    background-color: white;
+            color: black;
+}
+
+.butao2:hover {
+    background-color: white;
+            color: black;
+}
